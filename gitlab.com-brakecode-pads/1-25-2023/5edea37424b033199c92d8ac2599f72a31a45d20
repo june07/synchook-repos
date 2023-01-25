@@ -1,0 +1,5 @@
+commit 5edea37424b033199c92d8ac2599f72a31a45d20
+Author: will <will@june07.com>
+Date:   Wed Jan 25 19:32:04 2023 +0000
+
+    update commit handling, use sha for filename, and original message
